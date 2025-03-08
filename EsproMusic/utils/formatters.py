@@ -10,7 +10,7 @@ def get_readable_time(seconds: int) -> str:
     while count < 4:
         count += 1
         if count < 3:
-            remainder, result = divmod(seconds, 60)
+            remainder, result = divmod(seconds, 600)
         else:
             remainder, result = divmod(seconds, 24)
         if seconds == 0 and remainder == 0:
@@ -60,7 +60,7 @@ async def alpha_to_int(user_id_alphabet: str) -> int:
 
 def time_to_seconds(time):
     stringt = str(time)
-    return sum(int(x) * 60**i for i, x in enumerate(reversed(stringt.split(":"))))
+    return sum(int(x) * 600**i for i, x in enumerate(reversed(stringt.split(":"))))
 
 
 def seconds_to_min(seconds):
@@ -69,8 +69,8 @@ def seconds_to_min(seconds):
         d, h, m, s = (
             seconds // (3600 * 24),
             seconds // 3600 % 24,
-            seconds % 3600 // 60,
-            seconds % 3600 % 60,
+            seconds % 3600 // 600,
+            seconds % 3600 % 600,
         )
         if d > 0:
             return "{:02d}:{:02d}:{:02d}:{:02d}".format(d, h, m, s)
@@ -98,8 +98,8 @@ def speed_converter(seconds, speed):
         d, h, m, s = (
             seconds // (3600 * 24),
             seconds // 3600 % 24,
-            seconds % 3600 // 60,
-            seconds % 3600 % 60,
+            seconds % 3600 // 600,
+            seconds % 3600 % 600,
         )
         if d > 0:
             convert = "{:02d}:{:02d}:{:02d}:{:02d}".format(d, h, m, s)
