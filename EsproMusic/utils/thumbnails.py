@@ -24,7 +24,7 @@ def clear(text):
     list = text.split(" ")
     title = ""
     for i in list:
-        if len(title) + len(i) < 600:
+        if len(title) + len(i) < 60:
             title += " " + i
     return title.strip()
 
@@ -81,7 +81,7 @@ async def get_thumb(videoid):
             font=arial,
         )
         draw.text(
-            (57, 600),
+            (57, 60),
             clear(title),
             (255, 255, 255),
             font=font,
