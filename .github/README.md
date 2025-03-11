@@ -102,11 +102,6 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 ━━━━━━━━━━━━━━━━━━━━
 </h3>
 
-
-<h3 align="center">
-━━━━━━━━━━━━━━━━━━━━
-</h3>
-
 <h3 align="center">
 <details>
 <summary><b>─「 sᴜᴩᴩᴏʀᴛ 」─</b></summary>
