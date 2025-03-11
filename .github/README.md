@@ -88,7 +88,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0089&width=629&lines=ʏᴏᴜʀ+ᴍᴏꜱᴛ+ᴡᴇʟᴄᴏᴍᴇ"></b>
+  ʏᴏᴜʀ ᴍᴏꜱᴛ ᴡᴇʟᴄᴏᴍᴇ
 </h3>
 
 
