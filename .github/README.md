@@ -13,7 +13,7 @@
 <h3 align="center">
 <details>
 <summary><b>─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─</b></summary>
-</h3>
+
     
 - Get your [Necessary Variables](https://github.com/TeamEspro/EsproMusicBot/blob/master/sample.env)
 
@@ -66,4 +66,5 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <details>
 
 ━━━━━━━━━━━━━━━━━━━━
+</h3>
 
