@@ -10,10 +10,11 @@
 
 
 
-
+<h3 align="center">
 <details>
-<summary><b>𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘</b></summary>
-
+<summary><b>─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─</b></summary>
+</h3>
+    
 - Get your [Necessary Variables](https://github.com/TeamEspro/EsproMusicBot/blob/master/sample.env)
 
 - Upgrade and Update by :
