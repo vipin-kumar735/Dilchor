@@ -84,3 +84,41 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 ━━━━━━━━━━━━━━━━━━━━
 </h3>
 
+<h3 align="center">
+━━━━━━━━━━━━━━━━━━━━
+</h3>
+
+
+<h3 align="center">
+<details>
+<summary><b>─「 sᴜᴩᴩᴏʀᴛ 」─</b></summary>
+
+<p align="center">
+<a href="https://telegram.me/EsproSupport"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+</h3>
+
+<h3 align="center">
+━━━━━━━━━━━━━━━━━━━━
+</h3>
+
+
+<h3 align="center">
+━━━━━━━━━━━━━━━━━━━━
+</h3>
+
+<h3 align="center">
+<details>
+<summary><b>─「 sᴜᴩᴩᴏʀᴛ 」─</b></summary>
+
+
+<p align="center">
+<a href="https://telegram.me/EsproUpdate"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+</p>
+
+</h3>
+<h3 align="center">
+━━━━━━━━━━━━━━━━━━━━
+</h3>
+
+
