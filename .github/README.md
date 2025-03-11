@@ -2,6 +2,11 @@
     𝐄𝗌ρ𝗋ⱺ 𝐌ᥙsiᥴ [ ɴᴏ ᴀᴅʂ ] 🕊
 </h2>
 
+
+<h3 align="center">
+━━━━━━━━━━━━━━━━━━━━
+</h3>
+
 <h3 align="center">
 <details>
 <summary><b>─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─</b></summary>
