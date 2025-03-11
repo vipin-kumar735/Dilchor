@@ -11,7 +11,7 @@
 
 
 <h3 align="center">
-<details>
+
 <summary><b>─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─</b></summary>
 
     
