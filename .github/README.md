@@ -2,6 +2,10 @@
     𝐄𝗌ρ𝗋ⱺ 𝐌ᥙsiᥴ [ ɴᴏ ᴀᴅʂ ] 🕊
 </h2>
 
+<h3 align="center">
+  <img src="https://graph.org/file/9a02b864d957ec41151e4-1e108988fc7ba2114b.jpg">
+</h3>
+
 
 <h3 align="center">
 ━━━━━━━━━━━━━━━━━━━━
