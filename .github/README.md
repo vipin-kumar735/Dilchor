@@ -130,6 +130,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 <h3 align="center">
 ━━━━━━━━━━━━━━━━━━━━
 </h3>
+<details>
 
 - <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ʏᴜᴋᴋɪ](https://github.com/TeamYukki) ғᴏʀ [ʏᴜᴋᴋɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/TeamYukki/YukkiMusicBot)_ </b>
 
