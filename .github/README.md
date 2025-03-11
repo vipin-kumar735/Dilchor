@@ -11,7 +11,8 @@
 
 
 
-
+<details>
+<summary><b>𝗖𝗢𝗡𝗧𝗔𝗖𝗧 𝗠𝗘</b></summary>
 
 - Get your [Necessary Variables](https://github.com/TeamEspro/EsproMusicBot/blob/master/sample.env)
 
@@ -60,6 +61,8 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 `bash start`
 
 - For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
+
+<details>
 
 ━━━━━━━━━━━━━━━━━━━━
 
