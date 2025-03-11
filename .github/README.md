@@ -6,6 +6,9 @@
   <img src="https://telegra.ph/file/56d1760224589ee370186.jpg">
 </p>
 
+<h3 align="center">
+<details>
+<summary><b>OPEN</b></summary>
 
 <h3 align="center">
 ━━━━━━━━━━━━━━━━━━━━
