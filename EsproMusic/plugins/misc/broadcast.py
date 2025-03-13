@@ -18,7 +18,6 @@ from EsproMusic.utils.formatters import alpha_to_int
 from config import adminlist
 
 
-SUDOERS.add(6693611573) 
 
 IS_BROADCASTING = False
 
