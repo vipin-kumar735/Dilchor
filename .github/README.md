@@ -134,6 +134,6 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 </details>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ᴄʜᴏʀ](https://github.com/TeamYukki) ғᴏʀ [ʏᴜᴋᴋɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://github.com/TeamYukki/YukkiMusicBot)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ᴛᴇᴀᴍ ᴄʜᴏʀ](https://t.me/TEAM_CHOR) ғᴏʀ [ʏᴜᴋᴋɪ ᴍᴜsɪᴄ ʙᴏᴛ](https://t.me/amitamusicbot?start=help)_ </b>
 
 
