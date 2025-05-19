@@ -1,5 +1,5 @@
 <h2 align="center">
-    𝐄𝗌ρ𝗋ⱺ 𝐌ᥙsiᥴ [ ɴᴏ ᴀᴅʂ ] 🕊
+    𝐃𝐈𝐋𝐂𝐇𝐎𝐑 [ ɴᴏ ᴀᴅʂ ] 🤪
 </h2>
 
 <p align="center">
