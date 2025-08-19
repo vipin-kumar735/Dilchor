@@ -8,8 +8,8 @@ import yt_dlp
 from pyrogram.enums import MessageEntityType
 from pyrogram.types import Message
 from youtubesearchpython.__future__ import VideosSearch
-from IstkharMusic.utils.database import is_on_off
-from IstkharMusic.utils.formatters import time_to_seconds
+from EsproMusic.utils.database import is_on_off
+from EsproMusic.utils.formatters import time_to_seconds
 import os
 import glob
 import random
